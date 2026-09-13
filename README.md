@@ -1,6 +1,6 @@
 # 同名卡牌编号 / Card Copy Numbers
 
-当前版本 **1.2.0**，作者 **祁若泫**。新版已编译到 `Workshop/content`，等待上传更新已有工坊条目。按照此前的测试安排，本地模组仍保存在 `DisabledLocal/CardCopyNumbers`，处于禁用状态。没有前置模组，不需要 BaseLib、RitsuLib、ModConfig 或 Godot 编辑器。
+当前版本 **1.2.0**，作者 **祁若泫**。新版已编译到 `Workshop/content`，等待上传更新已有工坊条目。没有前置模组，不需要 BaseLib、RitsuLib、ModConfig 或 Godot 编辑器。
 
 ## 编号规则
 
