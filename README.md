@@ -24,33 +24,6 @@
 
 基础卡牌和凋萎的特殊名称均有补丁。第三方卡牌若完全重写 Title 且不调用基础实现，或其他模组完全替换牌堆 UI，可能需要单独适配。未来游戏/预测模组更新也需要重新检查接口。
 
-## 上传创意工坊
-
-官方上传器 v0.2.0 已下载到 `tools/ModUploader`。完整工坊工作区是本项目的 `Workshop` 文件夹，其中：
-
-- `content/CardCopyNumbers.dll`、`content/CardCopyNumbers.json`：上传的模组文件。
-- `workshop.json`：中英文介绍、标题和可见性。
-- `image.png`：512×512 封面，约 12 KB。
-
-1. 保持 Steam 已登录拥有本游戏的账号。
-2. 如需修改署名，编辑 `Workshop/content/CardCopyNumbers.json` 的 `author`（当前为 `祁若泫`）。工坊发布者自动采用登录 Steam 的账号。
-3. 打开本项目目录，在 PowerShell 运行：
-
-   ```powershell
-   powershell -ExecutionPolicy Bypass -File .\Upload.ps1
-   ```
-
-   或双击 `上传到创意工坊.cmd`。这一步才会实际上传。
-4. 当前工作区已关联条目 **3800734754**，运行脚本会更新此条目。`visibility` 设置为 `null`，保留工坊当前可见性，避免更新时将已公开条目改回私密。若 Steam 提示需要接受创意工坊协议，在网页完成接受。
-5. **保留 `Workshop/mod_id.txt`**。上传器在成功创建条目后保存此文件，后续用相同脚本更新同一条目；删除它可能导致重复创建。
-6. 更新时替换 `Workshop/content` 内的文件，修改版本号和 `changeNote` 后，再运行上传脚本。
-
-不要把整个游戏目录、源码目录、反编译文件、测试文件或游戏 DLL 放进 `Workshop/content`。该目录已整理为只有本模组自己的两个发布文件。无需添加 RitsuLib 等创意工坊依赖。
-
-订阅自己上传的版本后，如希望验证工坊下载版本，可先关闭游戏，将本地 `mods/CardCopyNumbers` 文件夹移到游戏 `mods` 目录之外。否则游戏会按自身重复模组规则选择本地或工坊版本。
-
-上传器报错时查看 `tools/ModUploader/mod-uploader.log`。
-
 ## 源码与重新构建
 
 需要 .NET 9 SDK。项目放在游戏目录下时，默认读取当前游戏的程序集；没有将游戏程序集打入发布包。
