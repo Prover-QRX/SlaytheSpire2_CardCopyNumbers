@@ -1,0 +1,14 @@
+C:\Program Files (x86)\steam\steamapps\common\Slay the Spire 2\CardCopyNumbers\tests\bin\Release\net9.0\Tests.exe
+C:\Program Files (x86)\steam\steamapps\common\Slay the Spire 2\CardCopyNumbers\tests\bin\Release\net9.0\Tests.deps.json
+C:\Program Files (x86)\steam\steamapps\common\Slay the Spire 2\CardCopyNumbers\tests\bin\Release\net9.0\Tests.runtimeconfig.json
+C:\Program Files (x86)\steam\steamapps\common\Slay the Spire 2\CardCopyNumbers\tests\bin\Release\net9.0\Tests.dll
+C:\Program Files (x86)\steam\steamapps\common\Slay the Spire 2\CardCopyNumbers\tests\bin\Release\net9.0\Tests.pdb
+C:\Program Files (x86)\steam\steamapps\common\Slay the Spire 2\CardCopyNumbers\tests\obj\Release\net9.0\Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\steam\steamapps\common\Slay the Spire 2\CardCopyNumbers\tests\obj\Release\net9.0\Tests.AssemblyInfoInputs.cache
+C:\Program Files (x86)\steam\steamapps\common\Slay the Spire 2\CardCopyNumbers\tests\obj\Release\net9.0\Tests.AssemblyInfo.cs
+C:\Program Files (x86)\steam\steamapps\common\Slay the Spire 2\CardCopyNumbers\tests\obj\Release\net9.0\Tests.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\steam\steamapps\common\Slay the Spire 2\CardCopyNumbers\tests\obj\Release\net9.0\Tests.dll
+C:\Program Files (x86)\steam\steamapps\common\Slay the Spire 2\CardCopyNumbers\tests\obj\Release\net9.0\refint\Tests.dll
+C:\Program Files (x86)\steam\steamapps\common\Slay the Spire 2\CardCopyNumbers\tests\obj\Release\net9.0\Tests.pdb
+C:\Program Files (x86)\steam\steamapps\common\Slay the Spire 2\CardCopyNumbers\tests\obj\Release\net9.0\Tests.genruntimeconfig.cache
+C:\Program Files (x86)\steam\steamapps\common\Slay the Spire 2\CardCopyNumbers\tests\obj\Release\net9.0\ref\Tests.dll
