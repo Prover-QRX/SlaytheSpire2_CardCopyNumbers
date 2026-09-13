@@ -1,0 +1,12 @@
+{
+  "id": "CardCopyNumbers",
+  "name": "同名卡牌编号 (Card Copy Numbers)",
+  "author": "15264",
+  "description": "为战斗中的卡牌添加稳定数字尾缀，方便追踪同名卡牌。普通牌堆按编号显示，兼容随机数预测冻结之眼的真实顺序。",
+  "version": "1.0.0",
+  "has_pck": false,
+  "has_dll": true,
+  "affects_gameplay": false,
+  "min_game_version": "0.111.0",
+  "dependencies": []
+}

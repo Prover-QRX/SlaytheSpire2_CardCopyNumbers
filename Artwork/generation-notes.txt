@@ -1,0 +1,12 @@
+Tool: built-in image_gen (not CLI).
+Original AI-generated artwork; no extracted game art used.
+High-resolution master: cover-gold-hd.png
+Workshop export: ../Workshop/image.png
+
+Use case: ads-marketing
+Asset type: square Steam Workshop cover for a Slay the Spire 2 utility mod, 1024x1024.
+Primary request: Create a dramatically eye-catching, polished Chinese cover for the mod “同名卡牌编号”. It numbers duplicate combat cards so players can distinguish them.
+Style: hand-painted dark fantasy deckbuilding game promotional art, bold shapes, rich brushwork, warm parchment and antique gold card frames, strong theatrical lighting. Not a screenshot, not a generic corporate infographic.
+Composition: Top third dominated by beautifully legible HUGE Chinese title on two centered lines: “同名卡牌” then “编号”. Gold-ivory thick display lettering, dark outline and subtle extrusion; must read well at small thumbnail size. Main central-bottom subject: three large matching fantasy attack cards fanned out, with the SAME illustrated red sword slash in each card's art window. Each carries a very prominent glowing gold numeric suffix near its lower center, left card “#1”, center card “#2”, right card “#3”. Their numbers are the central visual hook, large and unambiguous. Center card slightly taller. Do not occlude any number.
+Background: deep midnight blue/black with a looming jagged spire silhouette and restrained amber embers, energetic golden rim light outlining cards. Dark burgundy and gold accents. Small bottom line exactly “CARD COPY NUMBERS”.
+Constraints: square edge-to-edge composition, generous safe margins for all text, no other text, no extra numbers or paragraphs, no watermarks, no fake official studio logo, no realistic hands, no tiny UI stats, no explanation text. Strong contrast and clear readable Chinese; aesthetic tied to a dark fantasy card game. Deliver a clean final promotional cover.

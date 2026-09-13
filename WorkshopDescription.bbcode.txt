@@ -1,0 +1,40 @@
+[h1]同名卡牌，一眼分清[/h1]
+为战斗中的同名卡牌添加[b]稳定的数字尾缀[/b]，方便辨认卡牌、规划操作与记忆 SL 过程。
+
+[h2]主要功能[/h2]
+[list]
+[*]同名牌显示为“打击 #1”“打击 #2”等。本场只分配过 #1 时隐藏；一旦分配过 #2，该名称的编号就持续显示。
+[*]支持初始卡组和战斗中生成的卡牌，包括感染等状态牌。
+[*]同名牌即使位于不同牌堆，也能通过编号区分；抽牌、弃牌、消耗、洗牌和升级不会改变原编号。
+[*]普通牌堆浏览时，同名牌按数字递增显示，方便查找。
+[*]兼容随机数预测的冻结之眼，保留真实抽牌顺序，方便将预测中的卡牌与牌堆中的位置对应起来。
+[/list]
+
+[h2]如何使用[/h2]
+[olist]
+[*]订阅本模组，重启游戏。
+[*]在游戏模组列表中启用“同名卡牌编号”。
+[*]进入战斗即可使用，无需额外设置或前置模组。
+[/olist]
+如需查看真实抽牌顺序，可另外订阅“随机数预测”，并在其设置中开启冻结之眼。本模组也可以独立使用。
+
+[h2]编号说明[/h2]
+[list]
+[*]编号用于辨认卡牌，[b]不代表抽牌位置[/b]。
+[*]每场战斗重新编号；本场已经使用过的编号不会分配给后续生成的新牌，因此出现缺号是正常现象。
+[*]同名牌即使进入消耗堆或被变化、移出战斗，原编号也不会回收。已经显示的编号不会因同名牌减少而再次隐藏；只剩 #2、#3 等牌时仍显示编号。
+[*]本模组不改变卡牌效果、实际抽牌顺序或随机结果。
+[/list]
+
+[h2]English[/h2]
+Adds stable numbers to duplicate combat cards, including generated cards and statuses. The first assigned number stays hidden until a second number has been assigned to that card name in the combat. Numbers then remain visible even if only one card remains. Numbers stay with cards across piles, shuffles and upgrades.
+
+Subscribe, restart the game and enable Card Copy Numbers in the mod list. No extra setup or dependencies are required. RandomForeseer Frozen Eye is an optional companion for viewing the actual draw order.
+
+Numbers identify cards, not draw positions. Numbering starts afresh each combat, and used numbers are never reassigned to newly generated cards during that combat.
+
+[h2]问题反馈[/h2]
+模组可能仍存在 bug，欢迎反馈问题或建议。如遇异常，可附上游戏与模组版本、操作步骤及截图，方便排查。
+反馈邮箱：[b]1526443128@qq.com[/b]
+[i]封面由 AI 生成，并参考游戏中的“感染”卡牌美术。
+Cover generated with AI using the game's Infection card artwork as a reference.[/i]

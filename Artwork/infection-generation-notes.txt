@@ -1,0 +1,10 @@
+Tool: built-in image_gen edit.
+Edit target: cover-gold-hd.png
+Reference: infection-game-reference.webp, extracted from installed SlayTheSpire2.pck, images/packed/card_portraits/status/infection.png -> .godot/imported/infection.png-cca85e24e561d4017d9f591830cca1e9.ctex (embedded WebP).
+Game art belongs to its original rights holders. This cover adapts it for this game's mod presentation.
+Master: cover-infection-hd.png. Upload export: ../Workshop/image.png (512x512 PNG).
+
+Edit image 1 (the existing square Chinese Steam Workshop cover). Image 2 is supporting reference: the actual Slay the Spire 2 Infection card portrait extracted from the user's installed game.
+Replace ALL THREE sword-slash card artworks with faithful adaptations of the SAME Infection artwork from image 2: densely packed angular segmented ochre/yellow-green and muted olive parasitic larvae, on a black and vivid red-orange fissured background, in the game's flat polygonal hand-painted style. Preserve that exact recognizable composition and palette as closely as possible, gently adjusting perspective and lighting to fit each card. This is a stylized game illustration, not photorealism.
+Also replace the tiny sword emblems at each card's upper left with simple parasite/larva emblems. Write the Chinese card name “感染” clearly in dark ink on the parchment title ribbon of EACH of the three cards.
+Preserve everything else: exact large gold Chinese heading “同名卡牌” then “编号”, the square layout, golden glow, dark spire and red moon background, card fan positions and frames, large gold “#1”, “#2”, “#3” on the corresponding cards, bottom “CARD COPY NUMBERS” text. Keep all numbers unobstructed and legible at thumbnail size. Small tonal adjustments to harmonize the replacement Infection portraits are allowed. Do not add new UI stats, new slogans or other text. Deliver the polished final edited cover.
